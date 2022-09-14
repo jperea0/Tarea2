@@ -1,0 +1,50 @@
+body {
+    background: url(https://dcom-prod.imgix.net/files/2020-04/Por-que-el-cielo-se-ve-azul_thumbnail.jpg?w=1280&h=720&crop=focalpoint&fp-x=0.50974025974026&fp-y=0.53030303030303&fit=crop&auto=compress&q=75);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin: 0;
+    height: 100%;
+    border: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    text-align: center;
+}
+
+.borderimg {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(https://4.bp.blogspot.com/-Rc3LeqEkzFs/UFhxsuBbZ0I/AAAAAAAABBE/4_pvS7QhteE/s1600/borde+decorativo+de+diploma+1.jpg) 30 round;
+}
+
+.border {
+    border: 7.5px solid transparent;
+    padding: 7.5px;
+    border-image: url(http://data.pixiz.com/output/user/frame/preview/api/big/2/3/1/8/2818132_2e990.jpg) 30 round;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.button2 {
+    background-color: red;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.button3 {
+    background-color: burlywood;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 12px;
+}
